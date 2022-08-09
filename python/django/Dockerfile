@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Start the server using the production build
-#CMD [ "node", "dist/main.js" ]
+#TODO
